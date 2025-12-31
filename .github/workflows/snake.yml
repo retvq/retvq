@@ -2,11 +2,14 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "30 6 * * *"   # 12:00 PM IST
+    - cron: "30 6 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
