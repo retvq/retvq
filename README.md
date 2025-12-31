@@ -1,29 +1,41 @@
+# 👋 About Me
 
-## 💫 About Me:
-- 🚧 Active Builds  
-  AI utilities built with deployment and real usage in mind  
-  Backend systems designed for execution, not demos  <br>
-- 🤝 Collaboration Interest  
-  Execution driven AI projects  
-  Developer and productivity tooling  <br>
-- 🧠 Feedback I Value  
-  AI system design and architecture reviews  
-  Production readiness and scalability guidance  <br>
-- 📚 Skill Expansion  
-  Applied machine learning through real systems  
-  Production grade Python  
-  AWS for deployment and scaling  
+I’m an execution focused AIML engineer who enjoys building systems that run in the real world, not just in notebooks.
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=retvq&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=retvq&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=retvq&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
+### 🚧 What I’m Building
+- AI utilities designed for deployment and real usage
+<img
+  src="https://avatars.githubusercontent.com/retvq"
+  align="right"
+  width="290"
+  style="border-radius: 12px; margin-left: 24px;"
+/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retvq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+- Backend systems optimized for execution, not demos  
+
+### 🤝 Collaboration Interests
+- Execution driven AI projects with clear ownership  
+- Developer and productivity tools that solve real problems  
+
+### 🧠 Feedback I Value
+- AI system design and architecture reviews  
+- Guidance on production readiness and scalability  
+
+### 📚 What I’m Expanding
+- Applied machine learning through real world systems  
+- Writing production grade Python  
+- Using AWS to deploy and scale applications  
+
+
+<p align="right">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=280&lines=Applied+AI%26ML+Engineer"
+    alt="Typing SVG"
+  />
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retvq&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 
 <br />
