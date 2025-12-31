@@ -1,16 +1,14 @@
 # 👋 About Me
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=280&lines=Applied+AI%26ML+Engineer"
+    alt="Typing SVG"
+  />
 
 I’m an execution focused AIML engineer who enjoys building systems that run in the real world, not just in notebooks.
 
 ### 🚧 What I’m Building
 - AI utilities designed for deployment and real usage
-<img
-  src="https://avatars.githubusercontent.com/retvq"
-  align="right"
-  width="290"
-  style="border-radius: 12px; margin-left: 24px;"
-/>
-
 - Backend systems optimized for execution, not demos  
 
 ### 🤝 Collaboration Interests
@@ -27,15 +25,15 @@ I’m an execution focused AIML engineer who enjoys building systems that run in
 - Using AWS to deploy and scale applications  
 
 
-<p align="right">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=280&lines=Applied+AI%26ML+Engineer"
-    alt="Typing SVG"
-  />
 </p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retvq&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=retvq&bg_color=0D1117&color=58A6FF&line=00E5FF&point=7DF9FF&area=true&area_color=0A2A43&hide_border=true"
+    alt="Activity Graph"
+  />
 </div>
+
+
 
 
 <br />
