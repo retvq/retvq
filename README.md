@@ -12,7 +12,9 @@
   Applied machine learning through real systems  
   Production grade Python  
   AWS for deployment and scaling  
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/retvq/retvq/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritvik2403@gmail.com) 
