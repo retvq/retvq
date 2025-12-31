@@ -18,10 +18,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=retvq&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=retvq&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=retvq&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/retvq/retvq/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=retvq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ## 🌐 Socials:
