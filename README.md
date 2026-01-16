@@ -38,18 +38,7 @@ I’m an execution focused AIML engineer who enjoys building systems that run in
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/retvq">
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,js,aws,gcp,firebase,supabase,postgres,git&theme=dark" alt="Languages" />
-  </a>
-</div>
-<br />
-<br />
-<div align="center">
-  <a href="https://github.com/retvq">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,pytorch,tensorflow,sklearn,opencv,ps,ai,pr,xd,figma&theme=dark" alt="AI & Design" />
-  </a>
-</div>
+
 <div align="center">
   <a href="mailto:ritvik2403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" height="40" />
