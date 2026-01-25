@@ -5,7 +5,7 @@
     alt="Typing SVG"
   />
 
-
+I’m an execution focused AIML engineer who enjoys building systems that run in the real world, not just in notebooks.
 
 ### 🚧 What I’m Building
 - AI utilities designed for deployment and real usage
