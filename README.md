@@ -1,9 +1,3 @@
-# 👋 About Me
-<p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=280&lines=Applied+AI%26ML+Engineer"
-    alt="Typing SVG"
-  />
 
 I’m an execution focused AIML engineer who enjoys building systems that run in the real world, not just in notebooks.
 
